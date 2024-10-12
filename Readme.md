@@ -26,7 +26,6 @@ local lspconfig = require('lspconfig')
 lspconfig.htmx.setup{}
 ```
 
-Another option is to use [lsp-debug-tools](https://github.com/ThePrimeagen/lsp-debug-tools.nvim)
 
 ### VSCode
 
@@ -55,11 +54,3 @@ cargo build
 cargo install cargo-watch
 cargo watch -x build
 ```
-
-## Contributors
-
-<div align="center">
-  <a href="https://github.com/ThePrimeagen/htmx-lsp/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=ThePrimeagen/htmx-lsp" height="50px"/>
-  </a>
-</div>
